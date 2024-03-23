@@ -1,3 +1,5 @@
+[![Pylint](https://github.com/ahmdhjj/django-intra/actions/workflows/pylint.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/pylint.yml)
+[![Django CI](https://github.com/ahmdhjj/django-intra/actions/workflows/django.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/django.yml)
 # django-intra
 ## Settings
 In your settings file:
