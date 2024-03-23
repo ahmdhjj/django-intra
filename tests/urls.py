@@ -1,3 +1,7 @@
+"""
+URL configuration for the tests.
+"""
+
 from django.urls import path, include
 
 
