@@ -2,12 +2,13 @@
 
 ## Installation
 
-* `pip install django-intra`
+`pip install django-intra`
 
 ## Settings
 In your settings file:
 1. Add `'intra'` to `INSTALLED_APPS`.
-3. Add `'intra/templates'` to the `DIRS` option in the `TEMPLATES` setting.
+
+2. Add `'intra/templates'` to the `DIRS` option in the `TEMPLATES` setting.
 ```
   TEMPLATES = [
     {
