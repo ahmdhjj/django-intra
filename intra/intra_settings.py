@@ -12,3 +12,7 @@ from django.conf import settings
 INTRA_RESET_PASSWORD_ENABLED = getattr(
     settings, 'INTRA_RESET_PASSWORD_ENABLED', False
 )
+
+INTRA_ADMIN_LOGS_ENABLED = getattr(
+    settings, 'INTRA_ADMIN_LOGS_ENABLED', False
+)
