@@ -1,4 +1,6 @@
-site_name: django-intra Docs
+site_name: django-intra
 nav:
-  - Home: index.md
+  - Getting Started: index.md
+  - Configuration: configuration.md
+  - Changelog: changelog.md
 theme: readthedocs
