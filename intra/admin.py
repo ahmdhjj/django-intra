@@ -19,7 +19,7 @@ class LogEntryAdmin(admin.ModelAdmin):
     ]
 
     list_filter = [
-        'user',
+        ('user', admin.RelatedOnlyFieldListFilter),
         'content_type',
         'action_flag',
     ]
