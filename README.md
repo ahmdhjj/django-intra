@@ -1,4 +1,6 @@
 [![PyPI](https://img.shields.io/pypi/v/django-intra)](https://pypi.org/project/django-intra/)
+[![codecov](https://codecov.io/gh/ahmdhjj/django-intra/graph/badge.svg?token=JYNY2FRHO8)](https://codecov.io/gh/ahmdhjj/django-intra)
+
 [![Pylint](https://github.com/ahmdhjj/django-intra/actions/workflows/pylint.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/pylint.yml)
 [![Django CI](https://github.com/ahmdhjj/django-intra/actions/workflows/test.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/test.yml)
 [![Upload Python Package](https://github.com/ahmdhjj/django-intra/actions/workflows/release.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/release.yml)
