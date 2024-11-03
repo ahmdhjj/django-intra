@@ -6,6 +6,11 @@
 [![Upload Python Package](https://github.com/ahmdhjj/django-intra/actions/workflows/release.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/release.yml)
 [![docs](https://github.com/ahmdhjj/django-intra/actions/workflows/docs.yml/badge.svg)](https://github.com/ahmdhjj/django-intra/actions/workflows/docs.yml)
 # django-intra
+## About
+An extension of the Django admin application with special features including:
+- Adding admin site log entries
+- Enabling a password reset feature
+
 ## Docs
 https://ahmdhjj.github.io/django-intra/
 
